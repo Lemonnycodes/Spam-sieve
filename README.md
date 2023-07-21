@@ -6,13 +6,16 @@ This project implements a spam classification system in Python to classify email
 
 Spam emails pose a significant problem for email users, leading to wasted time and potential security risks. This project aims to develop an efficient and accurate spam classification system using two classification algorithms, Naive Bayes and Decision Trees. The system classifies incoming emails as either "spam" or "ham" based on their content.
 
-## Installation
+## INSTALLATION
 To run the project, make sure you have Python installed on your system. Additionally, the following libraries are required:
 
--pandas
--scikit-learn
--textblob
--nltk
+ * Pandas
+ * Scikit-learn
+ * textblob
+ * NLTK
+          
 
-## Results
+
+
+## RESULTS
 The project achieves an accuracy of XX% for the Naive Bayes classifier and 70.83% for the Decision Trees classifier, respectively, in correctly classifying emails as spam or ham. The classification results are based on precision, recall, and F1-score metrics.
