@@ -1,4 +1,4 @@
-## Spam-SIEVE FOR EMAILS (SPAM VS HAM ) 
+## SPAM-SIEVE FOR EMAILS (SPAM VS HAM ) 
 
 This project implements a spam classification system in Python to classify emails as "spam" or "ham" (non-spam) using both the Naive Bayes and Decision Trees algorithms. The project utilizes the scikit-learn library for machine learning, pandas for data handling, and text feature extraction with CountVectorizer.
 
