@@ -18,4 +18,4 @@ To run the project, make sure you have Python installed on your system. Addition
 
 
 ## RESULTS
-The project achieves an accuracy of XX% for the Naive Bayes classifier and 70.83% for the Decision Trees classifier, respectively, in correctly classifying emails as spam or ham. The classification results are based on precision, recall, and F1-score metrics.
+The project achieves an accuracy of 64.5% for the Naive Bayes classifier and 70.83% for the Decision Trees classifier, respectively, in correctly classifying emails as spam or ham. The classification results are based on precision, recall, and F1-score metrics.
